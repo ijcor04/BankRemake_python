@@ -14,7 +14,7 @@ class Account:
         return self.name
     def get_accbal(self):
         return self._bal
-    
+    #cunt
     def set_Accnum(self,x):
         self._Accnum = x
     def set_type(self, x):
